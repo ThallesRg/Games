@@ -1,2 +1,2 @@
 # Games
-Everything I created about games, using different languages and engines
+List of everything I've ever created using different languages and engines:
